@@ -1,0 +1,12 @@
+G:\git\Myqq\MyQQ\bin\Release\ConsoleApp1.exe.config
+G:\git\Myqq\MyQQ\bin\Release\ConsoleApp1.exe
+G:\git\Myqq\MyQQ\bin\Release\ConsoleApp1.pdb
+G:\git\Myqq\MyQQ\obj\Release\QQchy.ChatList.resources
+G:\git\Myqq\MyQQ\obj\Release\QQchy.FriendInfo.resources
+G:\git\Myqq\MyQQ\obj\Release\QQchy.Login.resources
+G:\git\Myqq\MyQQ\obj\Release\QQchy.MainChat.resources
+G:\git\Myqq\MyQQ\obj\Release\QQchy.Message.resources
+G:\git\Myqq\MyQQ\obj\Release\ConsoleApp1.csproj.GenerateResource.cache
+G:\git\Myqq\MyQQ\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\git\Myqq\MyQQ\obj\Release\ConsoleApp1.exe
+G:\git\Myqq\MyQQ\obj\Release\ConsoleApp1.pdb
